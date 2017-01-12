@@ -67,7 +67,7 @@ public class BankAccountTest {
      */
     @Test
     public void testWithdraw() {
-        BankAccount myAcct = new BankAccount();
+        BankAccount myAcct = new BankAccount(25.00);
         myAcct.withdraw(5.00);
         assertEquals(20.00, myAcct.getBalance(), .01);
     }
