@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BankAccountTest()
+comment0.text=\r\n\ Default\ constructor\ for\ test\ class\ BankAccountTest.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ tearDown()
+comment2.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ BankAccountTest()
+comment3.text=\r\n\ Tests\ the\ default\ constructor\r\n
+comment4.params=
+comment4.target=void\ BankAccountTest2()
+comment4.text=\r\n\ Tests\ the\ explicit\ constructor\r\n
+comment5.params=
+comment5.target=void\ testDeposit()
+comment5.text=\r\n\ Tests\ the\ deposit\ method\r\n
+comment6.params=
+comment6.target=void\ testWithdraw()
+comment6.text=\r\n\ Tests\ the\ withdraw\ method\r\n
+numComments=7
