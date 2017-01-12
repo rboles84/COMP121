@@ -68,8 +68,8 @@ public class BankAccountTest {
     @Test
     public void testWithdraw() {
         BankAccount myAcct = new BankAccount();
-        myAcct.withdraw(10.00);
-        assertEquals(15.00, myAcct.getBalance(), .01);
+        myAcct.withdraw(5.00);
+        assertEquals(20.00, myAcct.getBalance(), .01);
     }
     
     //Testing the getBalance() method with its own specific test case 
